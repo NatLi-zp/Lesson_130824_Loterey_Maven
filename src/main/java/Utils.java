@@ -3,11 +3,11 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Utils {
-    public static int getNum(int[] arr1, int[] arr2) {
-        int num =0;
-
-        return num;
-    }
+//    public static int getNum(int[] arr1, int[] arr2) {
+//        int num =0;
+//
+//        return num;
+//    }
 
     public static boolean isNumInArray(int[] arr, int num) {
 
